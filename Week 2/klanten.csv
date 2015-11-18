@@ -1,6 +1,6 @@
-Naam;Geboortejaar;E-mail;Telefoonnummer
-Henk Jansen;1978;henk@pauperhosting.nl;0482923578
-Jan Henksen;1994;jan@pauperhosting.nl;0967513285
-Tom;1997;tom@tomwishaupt.nl;0891684257
-Bert;1996;bert@ziggo.com;0943685255
-Klaas;1934;klaas@ziggo.nl;0598756321
+Naam,Geboortejaar,E-mail,Telefoonnummer
+Henk Jansen,1978,henk@pauperhosting.nl,482923578
+Jan Henksen,1994,jan@pauperhosting.nl,967513285
+Tom,1997,tom@tomwishaupt.nl,891684257
+Bert,1996,bert@ziggo.com,943685255
+Klaas,1934,klaas@ziggo.nl,598756321
