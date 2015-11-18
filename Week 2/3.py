@@ -1,5 +1,4 @@
 import csv
-import sys
 import random
 
 f = open('testbestandje.csv', 'wt')
